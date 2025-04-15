@@ -1,6 +1,6 @@
 ## 🏥 🇵🇱 Projekt: Analiza danych pacjentów szpitala
 
-Ten projekt zawiera analizę danych dotyczących pacjentów szpitala ze strony Kaggle[https://www.kaggle.com/datasets/saurabhshahane/patient-treatment-classification/data], przeprowadzoną w środowisku **Jupyter Notebook**.  
+Ten projekt zawiera analizę danych dotyczących pacjentów szpitala ze strony [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/patient-treatment-classification/data), przeprowadzoną w środowisku **Jupyter Notebook**.  
 Celem analizy było zrozumienie struktury danych, sprawdzenie ich poprawności oraz wizualizacja wybranych zmiennych i zależności.
 
 ---
@@ -33,7 +33,7 @@ Dane zostały wstępnie oczyszczone i przystosowane do analizy.
 
 ## 🏥 🇬🇧 Project: Hospital Patient Data Analysis
 
-This project contains an analysis of hospital patient data from Kaggle[https://www.kaggle.com/datasets/saurabhshahane/patient-treatment-classification/data] using **Jupyter Notebook**.  
+This project contains an analysis of hospital patient data from [Kaggle](https://www.kaggle.com/datasets/saurabhshahane/patient-treatment-classification/data) using **Jupyter Notebook**.  
 The goal of the analysis was to understand the dataset structure, validate the data, and visualize key variables and relationships.
 
 ---
