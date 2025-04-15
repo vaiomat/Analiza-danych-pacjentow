@@ -48,7 +48,7 @@ The goal of the analysis was to understand the dataset structure, validate the d
 ### 📁 Notebook File:
 - `Szpital.ipynb` – main notebook with code and charts
 - `szpital.csv` - dataset
-- 
+
 ---
 
 ### 🛠️ Stack:
