@@ -10,7 +10,6 @@ Celem analizy było zrozumienie struktury danych, sprawdzenie ich poprawności o
 - Opis kolumn i ich znaczenia
 - Sprawdzenie brakujących i nieprawidłowych danych
 - Wizualizacje (histogramy, wykresy rozrzutu, pudełkowe)
-- Proste statystyki opisowe
 
 ---
 
@@ -43,7 +42,6 @@ The goal of the analysis was to understand the dataset structure, validate the d
 - Column descriptions and interpretation
 - Checking for missing and invalid values
 - Visualizations (histograms, scatter plots, box plots)
-- Basic descriptive statistics
 
 ---
 
